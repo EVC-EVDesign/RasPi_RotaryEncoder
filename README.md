@@ -1,2 +1,2 @@
-# RasPi_RotaryEncoder
-Rotary Encoder code for EV Design Spedometer
+# RasPi_Speedometer Code
+Speedometer code for the raspberry pi
